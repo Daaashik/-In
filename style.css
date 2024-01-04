@@ -8,6 +8,7 @@ html
 {
   font-family: 'Open Sans', sans-serif;
   box-sizing: border-box;
+
 }
 .titleClass
 {
@@ -15,7 +16,7 @@ html
 }
 
 a {
-    color: #fff;
+    color: blue;
     text-decoration: none;
 }
 
@@ -26,11 +27,12 @@ a {
     background-image: center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin: -8px;
 }
 .menu
 {
   font-family: 'OpenSansHebrew-Regular', sans-serif;
-    color: #ffffff;
+    color: greenyellow;
     font-size: 20px;
     padding-left: 5%;
     height: 100px;  
@@ -147,6 +149,7 @@ p
   background-color: #d9d9d9;
   color:#3a3a3a;
   height: 150px;
+  margin: -8px;
 }
 .menu2 
 {
